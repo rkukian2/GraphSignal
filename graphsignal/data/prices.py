@@ -34,6 +34,7 @@ from graphsignal.data._fetch import (
     TransientError,
     fetch_with_retry,
 )
+from graphsignal.data._storage import unique_ordered
 from graphsignal.data.universe import load_universe
 
 log = logging.getLogger(__name__)
@@ -74,9 +75,7 @@ class IngestionSummary:
 # --- paths ------------------------------------------------------------------
 
 def _prices_dir(cfg: GraphSignalConfig) -> Path:
-    p = cfg.data_dir / "prices"
-    p.mkdir(parents=True, exist_ok=True)
-    return p
+    return cfg.data_dir / "prices"
 
 
 def _parquet_path(cfg: GraphSignalConfig, ticker: str) -> Path:
@@ -223,6 +222,7 @@ def ingest_prices(
     cfg = config or get_config()
     if tickers is None:
         tickers = load_universe("all")
+    tickers = unique_ordered(tickers)
     eff_start = start_date or DEFAULT_START_DATE
     eff_end = end_date or date.today()
     breaker = CircuitBreaker(cfg.fetch.circuit_breaker_consecutive_failures)
