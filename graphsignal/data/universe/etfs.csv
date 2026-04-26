@@ -1,0 +1,51 @@
+ticker,name,category,avg_dollar_volume,rank,source,retrieved_at
+SPY,SPDR S&P 500 ETF Trust,broad,53529063412.98502,1,yfinance 30d avg dollar volume,2026-04-26
+QQQ,Invesco QQQ Trust,broad,34049585630.282795,2,yfinance 30d avg dollar volume,2026-04-26
+IWM,iShares Russell 2000 ETF,broad,10245315339.095865,3,yfinance 30d avg dollar volume,2026-04-26
+VOO,Vanguard S&P 500 ETF,broad,6374320912.418823,4,yfinance 30d avg dollar volume,2026-04-26
+IVV,iShares Core S&P 500 ETF,broad,6295203053.842366,5,yfinance 30d avg dollar volume,2026-04-26
+GLD,SPDR Gold Shares,commodities,5182960267.931213,6,yfinance 30d avg dollar volume,2026-04-26
+USO,United States Oil Fund,commodities,5024016746.381836,7,yfinance 30d avg dollar volume,2026-04-26
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,bonds,4519929819.553859,8,yfinance 30d avg dollar volume,2026-04-26
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,bonds,4427779295.482228,9,yfinance 30d avg dollar volume,2026-04-26
+SMH,VanEck Semiconductor ETF,industry,3761977343.0659995,10,yfinance 30d avg dollar volume,2026-04-26
+XLE,Energy Select Sector SPDR Fund,sector,3105165893.3623376,11,yfinance 30d avg dollar volume,2026-04-26
+DIA,SPDR Dow Jones Industrial Average ETF Trust,broad,2867943694.8804727,12,yfinance 30d avg dollar volume,2026-04-26
+EWY,iShares MSCI South Korea ETF,intl,2730956148.359629,13,yfinance 30d avg dollar volume,2026-04-26
+TLT,iShares 20+ Year Treasury Bond ETF,bonds,2717542551.9371033,14,yfinance 30d avg dollar volume,2026-04-26
+SOXX,iShares Semiconductor ETF,industry,2545715868.4960938,15,yfinance 30d avg dollar volume,2026-04-26
+SLV,iShares Silver Trust,commodities,2466473169.690577,16,yfinance 30d avg dollar volume,2026-04-26
+GDX,VanEck Gold Miners ETF,commodities,2421865688.566157,17,yfinance 30d avg dollar volume,2026-04-26
+XLF,Financial Select Sector SPDR Fund,sector,2269885869.990298,18,yfinance 30d avg dollar volume,2026-04-26
+RSP,Invesco S&P 500 Equal Weight ETF,broad,2221512420.868225,19,yfinance 30d avg dollar volume,2026-04-26
+EEM,iShares MSCI Emerging Markets ETF,intl,2161361581.4472833,20,yfinance 30d avg dollar volume,2026-04-26
+EFA,iShares MSCI EAFE ETF,intl,2024437716.5896351,21,yfinance 30d avg dollar volume,2026-04-26
+XLI,Industrial Select Sector SPDR Fund,sector,1985819264.577891,22,yfinance 30d avg dollar volume,2026-04-26
+IGV,iShares Expanded Tech-Software Sector ETF,industry,1974727955.1410167,23,yfinance 30d avg dollar volume,2026-04-26
+XLK,Technology Select Sector SPDR Fund,sector,1945979146.3104248,24,yfinance 30d avg dollar volume,2026-04-26
+XLV,Health Care Select Sector SPDR Fund,sector,1725658117.0087178,25,yfinance 30d avg dollar volume,2026-04-26
+VTI,Vanguard Total Stock Market ETF,broad,1479140199.4578044,26,yfinance 30d avg dollar volume,2026-04-26
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,bonds,1269639171.9636536,27,yfinance 30d avg dollar volume,2026-04-26
+IEFA,iShares Core MSCI EAFE ETF,intl,1231285052.4307506,28,yfinance 30d avg dollar volume,2026-04-26
+XLP,Consumer Staples Select Sector SPDR Fund,sector,1217150891.4009602,29,yfinance 30d avg dollar volume,2026-04-26
+XBI,SPDR S&P Biotech ETF,industry,1203620269.3952434,30,yfinance 30d avg dollar volume,2026-04-26
+EWZ,iShares MSCI Brazil ETF,intl,1203415225.639356,31,yfinance 30d avg dollar volume,2026-04-26
+XLU,Utilities Select Sector SPDR Fund,sector,1106124555.6050618,32,yfinance 30d avg dollar volume,2026-04-26
+AGG,iShares Core US Aggregate Bond ETF,bonds,1094842581.1408741,33,yfinance 30d avg dollar volume,2026-04-26
+FXI,iShares China Large-Cap ETF,intl,1078071541.1731465,34,yfinance 30d avg dollar volume,2026-04-26
+KRE,SPDR S&P Regional Banking ETF,industry,1049246803.5813522,35,yfinance 30d avg dollar volume,2026-04-26
+XLY,Consumer Discretionary Select Sector SPDR Fund,sector,1043565177.0429739,36,yfinance 30d avg dollar volume,2026-04-26
+IEMG,iShares Core MSCI Emerging Markets ETF,intl,1036488123.5177358,37,yfinance 30d avg dollar volume,2026-04-26
+IEF,iShares 7-10 Year Treasury Bond ETF,bonds,1028933154.6355692,38,yfinance 30d avg dollar volume,2026-04-26
+VEA,Vanguard FTSE Developed Markets ETF,intl,1026865728.7599182,39,yfinance 30d avg dollar volume,2026-04-26
+QQQM,Invesco NASDAQ 100 ETF,broad,924386233.1065369,40,yfinance 30d avg dollar volume,2026-04-26
+IAU,iShares Gold Trust,commodities,919337592.2428385,41,yfinance 30d avg dollar volume,2026-04-26
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,industry,879605206.4478556,42,yfinance 30d avg dollar volume,2026-04-26
+IJH,iShares Core S&P Mid-Cap ETF,broad,853430529.740626,43,yfinance 30d avg dollar volume,2026-04-26
+VTV,Vanguard Value ETF,style,814850228.366038,44,yfinance 30d avg dollar volume,2026-04-26
+IJR,iShares Core S&P Small-Cap ETF,broad,774434725.9965006,45,yfinance 30d avg dollar volume,2026-04-26
+EWJ,iShares MSCI Japan ETF,intl,752042507.0522054,46,yfinance 30d avg dollar volume,2026-04-26
+SCHD,Schwab US Dividend Equity ETF,dividend,737847368.0840492,47,yfinance 30d avg dollar volume,2026-04-26
+XLC,Communication Services Select Sector SPDR Fund,sector,727042929.3263754,48,yfinance 30d avg dollar volume,2026-04-26
+VUG,Vanguard Growth ETF,style,714772262.9059601,49,yfinance 30d avg dollar volume,2026-04-26
+ITOT,iShares Core S&P Total US Stock Market ETF,broad,691942276.5760803,50,yfinance 30d avg dollar volume,2026-04-26

@@ -1,0 +1,504 @@
+ticker,name,sector,weight_pct,source,retrieved_at
+A,AGILENT TECHNOLOGIES INC,Health Care,0.05,iShares IVV holdings,2026-04-26
+AAPL,APPLE INC,Information Technology,6.58,iShares IVV holdings,2026-04-26
+ABBV,ABBVIE INC,Health Care,0.58,iShares IVV holdings,2026-04-26
+ABNB,AIRBNB INC CLASS A,Consumer Discretionary,0.1,iShares IVV holdings,2026-04-26
+ABT,ABBOTT LABORATORIES,Health Care,0.26,iShares IVV holdings,2026-04-26
+ACGL,ARCH CAPITAL GROUP LTD,Financials,0.06,iShares IVV holdings,2026-04-26
+ACN,ACCENTURE PLC CLASS A,Information Technology,0.18,iShares IVV holdings,2026-04-26
+ADBE,ADOBE INC,Information Technology,0.16,iShares IVV holdings,2026-04-26
+ADI,ANALOG DEVICES INC,Information Technology,0.32,iShares IVV holdings,2026-04-26
+ADM,ARCHER DANIELS MIDLAND,Consumer Staples,0.06,iShares IVV holdings,2026-04-26
+ADP,AUTOMATIC DATA PROCESSING INC,Industrials,0.13,iShares IVV holdings,2026-04-26
+ADSK,AUTODESK INC,Information Technology,0.08,iShares IVV holdings,2026-04-26
+AEE,AMEREN CORP,Utilities,0.05,iShares IVV holdings,2026-04-26
+AEP,AMERICAN ELECTRIC POWER INC,Utilities,0.12,iShares IVV holdings,2026-04-26
+AES,AES CORP,Utilities,0.02,iShares IVV holdings,2026-04-26
+AFL,AFLAC INC,Financials,0.09,iShares IVV holdings,2026-04-26
+AIG,AMERICAN INTERNATIONAL GROUP INC,Financials,0.07,iShares IVV holdings,2026-04-26
+AIZ,ASSURANT INC,Financials,0.02,iShares IVV holdings,2026-04-26
+AJG,ARTHUR J GALLAGHER,Financials,0.09,iShares IVV holdings,2026-04-26
+AKAM,AKAMAI TECHNOLOGIES INC,Information Technology,0.02,iShares IVV holdings,2026-04-26
+ALB,ALBEMARLE CORP,Materials,0.04,iShares IVV holdings,2026-04-26
+ALGN,ALIGN TECHNOLOGY INC,Health Care,0.02,iShares IVV holdings,2026-04-26
+ALL,ALLSTATE CORP,Financials,0.09,iShares IVV holdings,2026-04-26
+ALLE,ALLEGION PLC,Industrials,0.02,iShares IVV holdings,2026-04-26
+AMAT,APPLIED MATERIAL INC,Information Technology,0.53,iShares IVV holdings,2026-04-26
+AMCR,AMCOR PLC,Materials,0.03,iShares IVV holdings,2026-04-26
+AMD,ADVANCED MICRO DEVICES INC,Information Technology,0.82,iShares IVV holdings,2026-04-26
+AME,AMETEK INC,Industrials,0.09,iShares IVV holdings,2026-04-26
+AMGN,AMGEN INC,Health Care,0.31,iShares IVV holdings,2026-04-26
+AMP,AMERIPRISE FINANCE INC,Financials,0.07,iShares IVV holdings,2026-04-26
+AMT,AMERICAN TOWER REIT CORP,Real Estate,0.14,iShares IVV holdings,2026-04-26
+AMZN,AMAZON.COM INC,Consumer Discretionary,4.08,iShares IVV holdings,2026-04-26
+ANET,ARISTA NETWORKS INC,Information Technology,0.29,iShares IVV holdings,2026-04-26
+AON,AON PLC CLASS A,Financials,0.11,iShares IVV holdings,2026-04-26
+AOS,A O SMITH CORP,Industrials,0.01,iShares IVV holdings,2026-04-26
+APA,APA CORP,Energy,0.02,iShares IVV holdings,2026-04-26
+APD,AIR PRODUCTS AND CHEMICALS INC,Materials,0.11,iShares IVV holdings,2026-04-26
+APH,AMPHENOL CORP CLASS A,Information Technology,0.3,iShares IVV holdings,2026-04-26
+APO,APOLLO GLOBAL MANAGEMENT INC,Financials,0.09,iShares IVV holdings,2026-04-26
+APP,APPLOVIN CORP CLASS A,Information Technology,0.2,iShares IVV holdings,2026-04-26
+APTV,APTIV PLC,Consumer Discretionary,0.02,iShares IVV holdings,2026-04-26
+ARE,ALEXANDRIA REAL ESTATE EQUITIES RE,Real Estate,0.01,iShares IVV holdings,2026-04-26
+ARES,ARES MANAGEMENT CORP CLASS A,Financials,0.04,iShares IVV holdings,2026-04-26
+ATO,ATMOS ENERGY CORP,Utilities,0.05,iShares IVV holdings,2026-04-26
+AVB,AVALONBAY COMMUNITIES REIT INC,Real Estate,0.04,iShares IVV holdings,2026-04-26
+AVGO,BROADCOM INC,Information Technology,3.26,iShares IVV holdings,2026-04-26
+AVY,AVERY DENNISON CORP,Materials,0.02,iShares IVV holdings,2026-04-26
+AWK,AMERICAN WATER WORKS INC,Utilities,0.04,iShares IVV holdings,2026-04-26
+AXON,AXON ENTERPRISE INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+AXP,AMERICAN EXPRESS,Financials,0.28,iShares IVV holdings,2026-04-26
+AZO,AUTOZONE INC,Consumer Discretionary,0.1,iShares IVV holdings,2026-04-26
+BA,BOEING,Industrials,0.3,iShares IVV holdings,2026-04-26
+BAC,BANK OF AMERICA CORP,Financials,0.57,iShares IVV holdings,2026-04-26
+BALL,BALL CORP,Materials,0.03,iShares IVV holdings,2026-04-26
+BAX,BAXTER INTERNATIONAL INC,Health Care,0.02,iShares IVV holdings,2026-04-26
+BBY,BEST BUY INC,Consumer Discretionary,0.02,iShares IVV holdings,2026-04-26
+BDX,BECTON DICKINSON,Health Care,0.07,iShares IVV holdings,2026-04-26
+BEN,FRANKLIN RESOURCES INC,Financials,0.01,iShares IVV holdings,2026-04-26
+BFB,BROWN FORMAN CORP CLASS B,Consumer Staples,0.01,iShares IVV holdings,2026-04-26
+BG,BUNGE GLOBAL SA,Consumer Staples,0.03,iShares IVV holdings,2026-04-26
+BIIB,BIOGEN INC,Health Care,0.05,iShares IVV holdings,2026-04-26
+BK,BANK OF NEW YORK MELLON CORP,Financials,0.15,iShares IVV holdings,2026-04-26
+BKNG,BOOKING HOLDINGS INC,Consumer Discretionary,0.23,iShares IVV holdings,2026-04-26
+BKR,BAKER HUGHES CLASS A,Energy,0.1,iShares IVV holdings,2026-04-26
+BLDR,BUILDERS FIRSTSOURCE INC,Industrials,0.02,iShares IVV holdings,2026-04-26
+BLK,BLACKROCK INC,Financials,0.25,iShares IVV holdings,2026-04-26
+BMY,BRISTOL MYERS SQUIBB,Health Care,0.2,iShares IVV holdings,2026-04-26
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+BRKB,BERKSHIRE HATHAWAY INC CLASS B,Financials,1.41,iShares IVV holdings,2026-04-26
+BRO,BROWN & BROWN INC,Financials,0.03,iShares IVV holdings,2026-04-26
+BSX,BOSTON SCIENTIFIC CORP,Health Care,0.16,iShares IVV holdings,2026-04-26
+BX,BLACKSTONE INC,Financials,0.15,iShares IVV holdings,2026-04-26
+BXP,BXP INC,Real Estate,0.01,iShares IVV holdings,2026-04-26
+C,CITIGROUP INC,Financials,0.37,iShares IVV holdings,2026-04-26
+CAG,CONAGRA BRANDS INC,Consumer Staples,0.01,iShares IVV holdings,2026-04-26
+CAH,CARDINAL HEALTH INC,Health Care,0.08,iShares IVV holdings,2026-04-26
+CARR,CARRIER GLOBAL CORP,Industrials,0.08,iShares IVV holdings,2026-04-26
+CASY,CASEYS GENERAL STORES INC,Consumer Staples,0.05,iShares IVV holdings,2026-04-26
+CAT,CATERPILLAR INC,Industrials,0.64,iShares IVV holdings,2026-04-26
+CB,CHUBB,Financials,0.2,iShares IVV holdings,2026-04-26
+CBOE,CBOE GLOBAL MARKETS INC,Financials,0.05,iShares IVV holdings,2026-04-26
+CBRE,CBRE GROUP INC CLASS A,Real Estate,0.07,iShares IVV holdings,2026-04-26
+CCI,CROWN CASTLE INC,Real Estate,0.06,iShares IVV holdings,2026-04-26
+CCL,CARNIVAL CORP,Consumer Discretionary,0.05,iShares IVV holdings,2026-04-26
+CDNS,CADENCE DESIGN SYSTEMS INC,Information Technology,0.14,iShares IVV holdings,2026-04-26
+CDW,CDW CORP,Information Technology,0.03,iShares IVV holdings,2026-04-26
+CEG,CONSTELLATION ENERGY CORP,Utilities,0.15,iShares IVV holdings,2026-04-26
+CF,CF INDUSTRIES HOLDINGS INC,Materials,0.03,iShares IVV holdings,2026-04-26
+CFG,CITIZENS FINANCIAL GROUP INC,Financials,0.05,iShares IVV holdings,2026-04-26
+CHD,CHURCH AND DWIGHT INC,Consumer Staples,0.04,iShares IVV holdings,2026-04-26
+CHRW,CH ROBINSON WORLDWIDE INC,Industrials,0.04,iShares IVV holdings,2026-04-26
+CHTR,CHARTER COMMUNICATIONS INC CLASS A,Communication,0.03,iShares IVV holdings,2026-04-26
+CI,CIGNA,Health Care,0.12,iShares IVV holdings,2026-04-26
+CIEN,CIENA CORP,Information Technology,0.12,iShares IVV holdings,2026-04-26
+CINF,CINCINNATI FINANCIAL CORP,Financials,0.04,iShares IVV holdings,2026-04-26
+CL,COLGATE-PALMOLIVE,Consumer Staples,0.11,iShares IVV holdings,2026-04-26
+CLX,CLOROX,Consumer Staples,0.02,iShares IVV holdings,2026-04-26
+CMCSA,COMCAST CORP CLASS A,Communication,0.19,iShares IVV holdings,2026-04-26
+CME,CME GROUP INC CLASS A,Financials,0.17,iShares IVV holdings,2026-04-26
+CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary,0.07,iShares IVV holdings,2026-04-26
+CMI,CUMMINS INC,Industrials,0.15,iShares IVV holdings,2026-04-26
+CMS,CMS ENERGY CORP,Utilities,0.04,iShares IVV holdings,2026-04-26
+CNC,CENTENE CORP,Health Care,0.03,iShares IVV holdings,2026-04-26
+CNP,CENTERPOINT ENERGY INC,Utilities,0.05,iShares IVV holdings,2026-04-26
+COF,CAPITAL ONE FINANCIAL CORP,Financials,0.2,iShares IVV holdings,2026-04-26
+COHR,COHERENT CORP,Information Technology,0.1,iShares IVV holdings,2026-04-26
+COIN,COINBASE GLOBAL INC CLASS A,Financials,0.07,iShares IVV holdings,2026-04-26
+COO,COOPER INC,Health Care,0.02,iShares IVV holdings,2026-04-26
+COP,CONOCOPHILLIPS,Energy,0.25,iShares IVV holdings,2026-04-26
+COR,CENCORA INC,Health Care,0.1,iShares IVV holdings,2026-04-26
+COST,COSTCO WHOLESALE CORP,Consumer Staples,0.74,iShares IVV holdings,2026-04-26
+CPAY,CORPAY INC,Financials,0.04,iShares IVV holdings,2026-04-26
+CPB,CAMPBELL SOUP,Consumer Staples,0.01,iShares IVV holdings,2026-04-26
+CPRT,COPART INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+CPT,CAMDEN PROPERTY TRUST REIT,Real Estate,0.02,iShares IVV holdings,2026-04-26
+CRH,CRH PUBLIC LIMITED PLC,Materials,0.13,iShares IVV holdings,2026-04-26
+CRL,CHARLES RIVER LABORATORIES INTERNA,Health Care,0.01,iShares IVV holdings,2026-04-26
+CRM,SALESFORCE INC,Information Technology,0.27,iShares IVV holdings,2026-04-26
+CRWD,CROWDSTRIKE HOLDINGS INC CLASS A,Information Technology,0.18,iShares IVV holdings,2026-04-26
+CSCO,CISCO SYSTEMS INC,Information Technology,0.57,iShares IVV holdings,2026-04-26
+CSGP,COSTAR GROUP INC,Real Estate,0.03,iShares IVV holdings,2026-04-26
+CSX,CSX CORP,Industrials,0.14,iShares IVV holdings,2026-04-26
+CTAS,CINTAS CORP,Industrials,0.1,iShares IVV holdings,2026-04-26
+CTRA,COTERRA ENERGY INC,Energy,0.04,iShares IVV holdings,2026-04-26
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,0.04,iShares IVV holdings,2026-04-26
+CTVA,CORTEVA INC,Materials,0.09,iShares IVV holdings,2026-04-26
+CVNA,CARVANA CLASS A,Consumer Discretionary,0.09,iShares IVV holdings,2026-04-26
+CVS,CVS HEALTH CORP,Health Care,0.16,iShares IVV holdings,2026-04-26
+CVX,CHEVRON CORP,Energy,0.58,iShares IVV holdings,2026-04-26
+D,DOMINION ENERGY INC,Utilities,0.09,iShares IVV holdings,2026-04-26
+DAL,DELTA AIR LINES INC,Industrials,0.07,iShares IVV holdings,2026-04-26
+DASH,DOORDASH INC CLASS A,Consumer Discretionary,0.11,iShares IVV holdings,2026-04-26
+DD,DUPONT DE NEMOURS INC,Materials,0.03,iShares IVV holdings,2026-04-26
+DDOG,DATADOG INC CLASS A,Information Technology,0.07,iShares IVV holdings,2026-04-26
+DE,DEERE,Industrials,0.24,iShares IVV holdings,2026-04-26
+DECK,DECKERS OUTDOOR CORP,Consumer Discretionary,0.03,iShares IVV holdings,2026-04-26
+DELL,DELL TECHNOLOGIES INC CLASS C,Information Technology,0.1,iShares IVV holdings,2026-04-26
+DG,DOLLAR GENERAL CORP,Consumer Staples,0.04,iShares IVV holdings,2026-04-26
+DGX,QUEST DIAGNOSTICS INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+DHI,D R HORTON INC,Consumer Discretionary,0.07,iShares IVV holdings,2026-04-26
+DHR,DANAHER CORP,Health Care,0.18,iShares IVV holdings,2026-04-26
+DIS,WALT DISNEY,Communication,0.3,iShares IVV holdings,2026-04-26
+DLR,DIGITAL REALTY TRUST REIT INC,Real Estate,0.11,iShares IVV holdings,2026-04-26
+DLTR,DOLLAR TREE INC,Consumer Staples,0.03,iShares IVV holdings,2026-04-26
+DOC,HEALTHPEAK PROPERTIES INC,Real Estate,0.02,iShares IVV holdings,2026-04-26
+DOV,DOVER CORP,Industrials,0.05,iShares IVV holdings,2026-04-26
+DOW,DOW INC,Materials,0.05,iShares IVV holdings,2026-04-26
+DPZ,DOMINOS PIZZA INC,Consumer Discretionary,0.02,iShares IVV holdings,2026-04-26
+DRI,DARDEN RESTAURANTS INC,Consumer Discretionary,0.04,iShares IVV holdings,2026-04-26
+DTE,DTE ENERGY,Utilities,0.05,iShares IVV holdings,2026-04-26
+DUK,DUKE ENERGY CORP,Utilities,0.16,iShares IVV holdings,2026-04-26
+DVA,DAVITA INC,Health Care,0.01,iShares IVV holdings,2026-04-26
+DVN,DEVON ENERGY CORP,Energy,0.05,iShares IVV holdings,2026-04-26
+DXCM,DEXCOM INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+EA,ELECTRONIC ARTS INC,Communication,0.07,iShares IVV holdings,2026-04-26
+EBAY,EBAY INC,Consumer Discretionary,0.08,iShares IVV holdings,2026-04-26
+ECL,ECOLAB INC,Materials,0.11,iShares IVV holdings,2026-04-26
+ED,CONSOLIDATED EDISON INC,Utilities,0.07,iShares IVV holdings,2026-04-26
+EFX,EQUIFAX INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+EG,EVEREST GROUP LTD,Financials,0.02,iShares IVV holdings,2026-04-26
+EIX,EDISON INTERNATIONAL,Utilities,0.04,iShares IVV holdings,2026-04-26
+EL,ESTEE LAUDER INC CLASS A,Consumer Staples,0.03,iShares IVV holdings,2026-04-26
+ELV,ELEVANCE HEALTH INC,Health Care,0.13,iShares IVV holdings,2026-04-26
+EME,EMCOR GROUP INC,Industrials,0.06,iShares IVV holdings,2026-04-26
+EMR,EMERSON ELECTRIC,Industrials,0.13,iShares IVV holdings,2026-04-26
+EOG,EOG RESOURCES INC,Energy,0.12,iShares IVV holdings,2026-04-26
+EPAM,EPAM SYSTEMS INC,Information Technology,0.01,iShares IVV holdings,2026-04-26
+EQIX,EQUINIX REIT INC,Real Estate,0.18,iShares IVV holdings,2026-04-26
+EQR,EQUITY RESIDENTIAL REIT,Real Estate,0.04,iShares IVV holdings,2026-04-26
+EQT,EQT CORP,Energy,0.06,iShares IVV holdings,2026-04-26
+ERIE,ERIE INDEMNITY CLASS A,Financials,0.01,iShares IVV holdings,2026-04-26
+ES,EVERSOURCE ENERGY,Utilities,0.04,iShares IVV holdings,2026-04-26
+ESS,ESSEX PROPERTY TRUST REIT INC,Real Estate,0.03,iShares IVV holdings,2026-04-26
+ETN,EATON PLC,Industrials,0.27,iShares IVV holdings,2026-04-26
+ETR,ENTERGY CORP,Utilities,0.08,iShares IVV holdings,2026-04-26
+EVRG,EVERGY INC,Utilities,0.03,iShares IVV holdings,2026-04-26
+EW,EDWARDS LIFESCIENCES CORP,Health Care,0.08,iShares IVV holdings,2026-04-26
+EXC,EXELON CORP,Utilities,0.08,iShares IVV holdings,2026-04-26
+EXE,EXPAND ENERGY CORP,Energy,0.04,iShares IVV holdings,2026-04-26
+EXPD,EXPEDITORS INTERNATIONAL OF WASHIN,Industrials,0.03,iShares IVV holdings,2026-04-26
+EXPE,EXPEDIA GROUP INC,Consumer Discretionary,0.05,iShares IVV holdings,2026-04-26
+EXR,EXTRA SPACE STORAGE REIT INC,Real Estate,0.05,iShares IVV holdings,2026-04-26
+F,FORD MOTOR CO,Consumer Discretionary,0.08,iShares IVV holdings,2026-04-26
+FANG,DIAMONDBACK ENERGY INC,Energy,0.06,iShares IVV holdings,2026-04-26
+FAST,FASTENAL,Industrials,0.09,iShares IVV holdings,2026-04-26
+FCX,FREEPORT MCMORAN INC,Materials,0.14,iShares IVV holdings,2026-04-26
+FDS,FACTSET RESEARCH SYSTEMS INC,Financials,0.01,iShares IVV holdings,2026-04-26
+FDX,FEDEX CORP,Industrials,0.14,iShares IVV holdings,2026-04-26
+FE,FIRSTENERGY CORP,Utilities,0.04,iShares IVV holdings,2026-04-26
+FFIV,F5 INC,Information Technology,0.03,iShares IVV holdings,2026-04-26
+FICO,FAIR ISAAC CORP,Information Technology,0.04,iShares IVV holdings,2026-04-26
+FIS,FIDELITY NATIONAL INFORMATION SERV,Financials,0.04,iShares IVV holdings,2026-04-26
+FISV,FISERV INC,Financials,0.05,iShares IVV holdings,2026-04-26
+FITB,FIFTH THIRD BANCORP,Financials,0.08,iShares IVV holdings,2026-04-26
+FIX,COMFORT SYSTEMS USA INC,Industrials,0.1,iShares IVV holdings,2026-04-26
+FOX,FOX CORP CLASS B,Communication,0.01,iShares IVV holdings,2026-04-26
+FOXA,FOX CORP CLASS A,Communication,0.02,iShares IVV holdings,2026-04-26
+FRT,FEDERAL REALTY INVESTMENT TRUST RE,Real Estate,0.01,iShares IVV holdings,2026-04-26
+FSLR,FIRST SOLAR INC,Information Technology,0.03,iShares IVV holdings,2026-04-26
+FTNT,FORTINET INC,Information Technology,0.09,iShares IVV holdings,2026-04-26
+FTV,FORTIVE CORP,Industrials,0.03,iShares IVV holdings,2026-04-26
+GD,GENERAL DYNAMICS CORP,Industrials,0.13,iShares IVV holdings,2026-04-26
+GDDY,GODADDY INC CLASS A,Information Technology,0.02,iShares IVV holdings,2026-04-26
+GE,GE AEROSPACE,Industrials,0.49,iShares IVV holdings,2026-04-26
+GEHC,GE HEALTHCARE TECHNOLOGIES INC,Health Care,0.05,iShares IVV holdings,2026-04-26
+GEN,GEN DIGITAL INC,Information Technology,0.02,iShares IVV holdings,2026-04-26
+GEV,GE VERNOVA INC,Industrials,0.51,iShares IVV holdings,2026-04-26
+GILD,GILEAD SCIENCES INC,Health Care,0.27,iShares IVV holdings,2026-04-26
+GIS,GENERAL MILLS INC,Consumer Staples,0.03,iShares IVV holdings,2026-04-26
+GL,GLOBE LIFE INC,Financials,0.02,iShares IVV holdings,2026-04-26
+GLW,CORNING INC,Information Technology,0.22,iShares IVV holdings,2026-04-26
+GM,GENERAL MOTORS,Consumer Discretionary,0.12,iShares IVV holdings,2026-04-26
+GNRC,GENERAC HOLDINGS INC,Industrials,0.02,iShares IVV holdings,2026-04-26
+GOOG,ALPHABET INC CLASS C,Communication,2.59,iShares IVV holdings,2026-04-26
+GOOGL,ALPHABET INC CLASS A,Communication,3.23,iShares IVV holdings,2026-04-26
+GPC,GENUINE PARTS,Consumer Discretionary,0.03,iShares IVV holdings,2026-04-26
+GPN,GLOBAL PAYMENTS INC,Financials,0.03,iShares IVV holdings,2026-04-26
+GRMN,GARMIN LTD,Consumer Discretionary,0.07,iShares IVV holdings,2026-04-26
+GS,GOLDMAN SACHS GROUP INC,Financials,0.46,iShares IVV holdings,2026-04-26
+GWW,WW GRAINGER INC,Industrials,0.08,iShares IVV holdings,2026-04-26
+HAL,HALLIBURTON,Energy,0.05,iShares IVV holdings,2026-04-26
+HAS,HASBRO INC,Consumer Discretionary,0.02,iShares IVV holdings,2026-04-26
+HBAN,HUNTINGTON BANCSHARES INC,Financials,0.06,iShares IVV holdings,2026-04-26
+HCA,HCA HEALTHCARE INC,Health Care,0.12,iShares IVV holdings,2026-04-26
+HD,HOME DEPOT INC,Consumer Discretionary,0.55,iShares IVV holdings,2026-04-26
+HIG,HARTFORD INSURANCE GROUP INC,Financials,0.06,iShares IVV holdings,2026-04-26
+HII,HUNTINGTON INGALLS INDUSTRIES INC,Industrials,0.02,iShares IVV holdings,2026-04-26
+HLT,HILTON WORLDWIDE HOLDINGS INC,Consumer Discretionary,0.13,iShares IVV holdings,2026-04-26
+HON,HONEYWELL INTERNATIONAL INC,Industrials,0.22,iShares IVV holdings,2026-04-26
+HOOD,ROBINHOOD MARKETS INC CLASS A,Financials,0.11,iShares IVV holdings,2026-04-26
+HPE,HEWLETT PACKARD ENTERPRISE,Information Technology,0.06,iShares IVV holdings,2026-04-26
+HPQ,HP INC,Information Technology,0.03,iShares IVV holdings,2026-04-26
+HRL,HORMEL FOODS CORP,Consumer Staples,0.01,iShares IVV holdings,2026-04-26
+HSIC,HENRY SCHEIN INC,Health Care,0.01,iShares IVV holdings,2026-04-26
+HST,HOST HOTELS & RESORTS REIT INC,Real Estate,0.02,iShares IVV holdings,2026-04-26
+HSY,HERSHEY FOODS,Consumer Staples,0.05,iShares IVV holdings,2026-04-26
+HUBB,HUBBELL INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+HUM,HUMANA INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+HWM,HOWMET AEROSPACE INC,Industrials,0.16,iShares IVV holdings,2026-04-26
+IBKR,INTERACTIVE BROKERS GROUP INC CLAS,Financials,0.06,iShares IVV holdings,2026-04-26
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Information Technology,0.35,iShares IVV holdings,2026-04-26
+ICE,INTERCONTINENTAL EXCHANGE INC,Financials,0.15,iShares IVV holdings,2026-04-26
+IDXX,IDEXX LABORATORIES INC,Health Care,0.07,iShares IVV holdings,2026-04-26
+IEX,IDEX CORP,Industrials,0.03,iShares IVV holdings,2026-04-26
+IFF,INTERNATIONAL FLAVORS & FRAGRANCES,Materials,0.03,iShares IVV holdings,2026-04-26
+INCY,INCYTE CORP,Health Care,0.03,iShares IVV holdings,2026-04-26
+INTC,INTEL CORPORATION CORP,Information Technology,0.51,iShares IVV holdings,2026-04-26
+INTU,INTUIT INC,Information Technology,0.17,iShares IVV holdings,2026-04-26
+INVH,INVITATION HOMES INC,Real Estate,0.03,iShares IVV holdings,2026-04-26
+IP,INTERNATIONAL PAPER,Materials,0.03,iShares IVV holdings,2026-04-26
+IQV,IQVIA HOLDINGS INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+IR,INGERSOLL RAND INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+IRM,IRON MOUNTAIN INC,Real Estate,0.06,iShares IVV holdings,2026-04-26
+ISRG,INTUITIVE SURGICAL INC,Health Care,0.28,iShares IVV holdings,2026-04-26
+IT,GARTNER INC,Information Technology,0.02,iShares IVV holdings,2026-04-26
+ITW,ILLINOIS TOOL INC,Industrials,0.12,iShares IVV holdings,2026-04-26
+IVZ,INVESCO LTD,Financials,0.02,iShares IVV holdings,2026-04-26
+J,JACOBS SOLUTIONS INC,Industrials,0.02,iShares IVV holdings,2026-04-26
+JBHT,JB HUNT TRANSPORT SERVICES INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+JBL,JABIL INC,Information Technology,0.06,iShares IVV holdings,2026-04-26
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,0.14,iShares IVV holdings,2026-04-26
+JKHY,JACK HENRY AND ASSOCIATES INC,Financials,0.02,iShares IVV holdings,2026-04-26
+JNJ,JOHNSON & JOHNSON,Health Care,0.91,iShares IVV holdings,2026-04-26
+JPM,JPMORGAN CHASE & CO,Financials,1.38,iShares IVV holdings,2026-04-26
+KDP,KEURIG DR PEPPER INC,Consumer Staples,0.06,iShares IVV holdings,2026-04-26
+KEY,KEYCORP,Financials,0.03,iShares IVV holdings,2026-04-26
+KEYS,KEYSIGHT TECHNOLOGIES INC,Information Technology,0.1,iShares IVV holdings,2026-04-26
+KHC,KRAFT HEINZ,Consumer Staples,0.03,iShares IVV holdings,2026-04-26
+KIM,KIMCO REALTY REIT CORP,Real Estate,0.03,iShares IVV holdings,2026-04-26
+KKR,KKR AND CO INC,Financials,0.11,iShares IVV holdings,2026-04-26
+KLAC,KLA CORP,Information Technology,0.39,iShares IVV holdings,2026-04-26
+KMB,KIMBERLY CLARK CORP,Consumer Staples,0.05,iShares IVV holdings,2026-04-26
+KMI,KINDER MORGAN INC,Energy,0.1,iShares IVV holdings,2026-04-26
+KO,COCA-COLA,Consumer Staples,0.48,iShares IVV holdings,2026-04-26
+KR,KROGER,Consumer Staples,0.07,iShares IVV holdings,2026-04-26
+KVUE,KENVUE INC,Consumer Staples,0.05,iShares IVV holdings,2026-04-26
+L,LOEWS CORP,Financials,0.03,iShares IVV holdings,2026-04-26
+LDOS,LEIDOS HOLDINGS INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+LEN,LENNAR A CORP CLASS A,Consumer Discretionary,0.03,iShares IVV holdings,2026-04-26
+LH,LABCORP HOLDINGS INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+LHX,L3HARRIS TECHNOLOGIES INC,Industrials,0.1,iShares IVV holdings,2026-04-26
+LII,LENNOX INTERNATIONAL INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+LIN,LINDE PLC,Materials,0.39,iShares IVV holdings,2026-04-26
+LITE,LUMENTUM HOLDINGS INC,Information Technology,0.1,iShares IVV holdings,2026-04-26
+LLY,ELI LILLY,Health Care,1.19,iShares IVV holdings,2026-04-26
+LMT,LOCKHEED MARTIN CORP,Industrials,0.18,iShares IVV holdings,2026-04-26
+LNT,ALLIANT ENERGY CORP,Utilities,0.03,iShares IVV holdings,2026-04-26
+LOW,LOWES COMPANIES INC,Consumer Discretionary,0.23,iShares IVV holdings,2026-04-26
+LRCX,LAM RESEARCH CORP,Information Technology,0.53,iShares IVV holdings,2026-04-26
+LULU,LULULEMON ATHLETICA INC,Consumer Discretionary,0.02,iShares IVV holdings,2026-04-26
+LUV,SOUTHWEST AIRLINES,Industrials,0.03,iShares IVV holdings,2026-04-26
+LVS,LAS VEGAS SANDS CORP,Consumer Discretionary,0.03,iShares IVV holdings,2026-04-26
+LYB,LYONDELLBASELL INDUSTRIES NV CLASS,Materials,0.03,iShares IVV holdings,2026-04-26
+LYV,LIVE NATION ENTERTAINMENT INC,Communication,0.04,iShares IVV holdings,2026-04-26
+MA,MASTERCARD INC CLASS A,Financials,0.67,iShares IVV holdings,2026-04-26
+MAA,MID AMERICA APARTMENT COMMUNITIES,Real Estate,0.02,iShares IVV holdings,2026-04-26
+MAR,MARRIOTT INTERNATIONAL INC CLASS A,Consumer Discretionary,0.13,iShares IVV holdings,2026-04-26
+MAS,MASCO CORP,Industrials,0.03,iShares IVV holdings,2026-04-26
+MCD,MCDONALDS CORP,Consumer Discretionary,0.35,iShares IVV holdings,2026-04-26
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,0.08,iShares IVV holdings,2026-04-26
+MCK,MCKESSON CORP,Health Care,0.17,iShares IVV holdings,2026-04-26
+MCO,MOODYS CORP,Financials,0.11,iShares IVV holdings,2026-04-26
+MDLZ,MONDELEZ INTERNATIONAL INC CLASS A,Consumer Staples,0.12,iShares IVV holdings,2026-04-26
+MDT,MEDTRONIC PLC,Health Care,0.18,iShares IVV holdings,2026-04-26
+MET,METLIFE INC,Financials,0.07,iShares IVV holdings,2026-04-26
+META,META PLATFORMS INC CLASS A,Communication,2.36,iShares IVV holdings,2026-04-26
+MGM,MGM RESORTS INTERNATIONAL,Consumer Discretionary,0.01,iShares IVV holdings,2026-04-26
+MKC,MCCORMICK & CO NON-VOTING INC,Consumer Staples,0.02,iShares IVV holdings,2026-04-26
+MLM,MARTIN MARIETTA MATERIALS INC,Materials,0.06,iShares IVV holdings,2026-04-26
+MMM,3M,Industrials,0.12,iShares IVV holdings,2026-04-26
+MNST,MONSTER BEVERAGE CORP,Consumer Staples,0.09,iShares IVV holdings,2026-04-26
+MO,ALTRIA GROUP INC,Consumer Staples,0.18,iShares IVV holdings,2026-04-26
+MOS,MOSAIC,Materials,0.01,iShares IVV holdings,2026-04-26
+MPC,MARATHON PETROLEUM CORP,Energy,0.11,iShares IVV holdings,2026-04-26
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,0.13,iShares IVV holdings,2026-04-26
+MRK,MERCK & CO INC,Health Care,0.47,iShares IVV holdings,2026-04-26
+MRNA,MODERNA INC,Health Care,0.03,iShares IVV holdings,2026-04-26
+MRSH,MARSH INC,Financials,0.14,iShares IVV holdings,2026-04-26
+MS,MORGAN STANLEY,Financials,0.37,iShares IVV holdings,2026-04-26
+MSCI,MSCI INC,Financials,0.07,iShares IVV holdings,2026-04-26
+MSFT,MICROSOFT CORP,Information Technology,5.06,iShares IVV holdings,2026-04-26
+MSI,MOTOROLA SOLUTIONS INC,Information Technology,0.12,iShares IVV holdings,2026-04-26
+MTB,M&T BANK CORP,Financials,0.05,iShares IVV holdings,2026-04-26
+MTD,METTLER TOLEDO INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+MU,MICRON TECHNOLOGY INC,Information Technology,0.89,iShares IVV holdings,2026-04-26
+NCLH,NORWEGIAN CRUISE LINE HOLDINGS LTD,Consumer Discretionary,0.01,iShares IVV holdings,2026-04-26
+NDAQ,NASDAQ INC,Financials,0.06,iShares IVV holdings,2026-04-26
+NDSN,NORDSON CORP,Industrials,0.02,iShares IVV holdings,2026-04-26
+NEE,NEXTERA ENERGY INC,Utilities,0.33,iShares IVV holdings,2026-04-26
+NEM,NEWMONT,Materials,0.2,iShares IVV holdings,2026-04-26
+NFLX,NETFLIX INC,Communication,0.64,iShares IVV holdings,2026-04-26
+NI,NISOURCE INC,Utilities,0.04,iShares IVV holdings,2026-04-26
+NKE,NIKE INC CLASS B,Consumer Discretionary,0.09,iShares IVV holdings,2026-04-26
+NOC,NORTHROP GRUMMAN CORP,Industrials,0.13,iShares IVV holdings,2026-04-26
+NOW,SERVICENOW INC,Information Technology,0.15,iShares IVV holdings,2026-04-26
+NRG,NRG ENERGY INC,Utilities,0.05,iShares IVV holdings,2026-04-26
+NSC,NORFOLK SOUTHERN CORP,Industrials,0.12,iShares IVV holdings,2026-04-26
+NTAP,NETAPP INC,Information Technology,0.04,iShares IVV holdings,2026-04-26
+NTRS,NORTHERN TRUST CORP,Financials,0.05,iShares IVV holdings,2026-04-26
+NUE,NUCOR CORP,Materials,0.08,iShares IVV holdings,2026-04-26
+NVDA,NVIDIA CORP,Information Technology,7.95,iShares IVV holdings,2026-04-26
+NVR,NVR INC,Consumer Discretionary,0.03,iShares IVV holdings,2026-04-26
+NWS,NEWS CORP CLASS B,Communication,0.01,iShares IVV holdings,2026-04-26
+NWSA,NEWS CORP CLASS A,Communication,0.02,iShares IVV holdings,2026-04-26
+NXPI,NXP SEMICONDUCTORS NV,Information Technology,0.1,iShares IVV holdings,2026-04-26
+O,REALTY INCOME REIT CORP,Real Estate,0.1,iShares IVV holdings,2026-04-26
+ODFL,OLD DOMINION FREIGHT LINE INC,Industrials,0.07,iShares IVV holdings,2026-04-26
+OKE,ONEOK INC,Energy,0.09,iShares IVV holdings,2026-04-26
+OMC,OMNICOM GROUP INC,Communication,0.04,iShares IVV holdings,2026-04-26
+ON,ON SEMICONDUCTOR CORP,Information Technology,0.06,iShares IVV holdings,2026-04-26
+ORCL,ORACLE CORP,Information Technology,0.49,iShares IVV holdings,2026-04-26
+ORLY,OREILLY AUTOMOTIVE INC,Consumer Discretionary,0.13,iShares IVV holdings,2026-04-26
+OTIS,OTIS WORLDWIDE CORP,Industrials,0.05,iShares IVV holdings,2026-04-26
+OXY,OCCIDENTAL PETROLEUM CORP,Energy,0.07,iShares IVV holdings,2026-04-26
+PANW,PALO ALTO NETWORKS INC,Information Technology,0.23,iShares IVV holdings,2026-04-26
+PAYX,PAYCHEX INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+PCAR,PACCAR INC,Industrials,0.11,iShares IVV holdings,2026-04-26
+PCG,PG&E CORP,Utilities,0.06,iShares IVV holdings,2026-04-26
+PEG,PUBLIC SERVICE ENTERPRISE GROUP IN,Utilities,0.07,iShares IVV holdings,2026-04-26
+PEP,PEPSICO INC,Consumer Staples,0.35,iShares IVV holdings,2026-04-26
+PFE,PFIZER INC,Health Care,0.25,iShares IVV holdings,2026-04-26
+PFG,PRINCIPAL FINANCIAL GROUP INC,Financials,0.03,iShares IVV holdings,2026-04-26
+PG,PROCTER & GAMBLE,Consumer Staples,0.55,iShares IVV holdings,2026-04-26
+PGR,PROGRESSIVE CORP,Financials,0.2,iShares IVV holdings,2026-04-26
+PH,PARKER-HANNIFIN CORP,Industrials,0.2,iShares IVV holdings,2026-04-26
+PHM,PULTEGROUP INC,Consumer Discretionary,0.04,iShares IVV holdings,2026-04-26
+PKG,PACKAGING CORP OF AMERICA,Materials,0.03,iShares IVV holdings,2026-04-26
+PLD,PROLOGIS REIT INC,Real Estate,0.22,iShares IVV holdings,2026-04-26
+PLTR,PALANTIR TECHNOLOGIES INC CLASS A,Information Technology,0.53,iShares IVV holdings,2026-04-26
+PM,PHILIP MORRIS INTERNATIONAL INC,Consumer Staples,0.43,iShares IVV holdings,2026-04-26
+PNC,PNC FINANCIAL SERVICES GROUP INC,Financials,0.15,iShares IVV holdings,2026-04-26
+PNR,PENTAIR,Industrials,0.02,iShares IVV holdings,2026-04-26
+PNW,PINNACLE WEST CORP,Utilities,0.02,iShares IVV holdings,2026-04-26
+PODD,INSULET CORP,Health Care,0.02,iShares IVV holdings,2026-04-26
+POOL,POOL CORP,Consumer Discretionary,0.01,iShares IVV holdings,2026-04-26
+PPG,PPG INDUSTRIES INC,Materials,0.04,iShares IVV holdings,2026-04-26
+PPL,PPL CORP,Utilities,0.05,iShares IVV holdings,2026-04-26
+PRU,PRUDENTIAL FINANCIAL INC,Financials,0.05,iShares IVV holdings,2026-04-26
+PSA,PUBLIC STORAGE REIT,Real Estate,0.08,iShares IVV holdings,2026-04-26
+PSKY,PARAMOUNT SKYDANCE CORP CLASS B,Communication,0.01,iShares IVV holdings,2026-04-26
+PSX,PHILLIPS 66,Energy,0.11,iShares IVV holdings,2026-04-26
+PTC,PTC INC,Information Technology,0.03,iShares IVV holdings,2026-04-26
+PWR,QUANTA SERVICES INC,Industrials,0.15,iShares IVV holdings,2026-04-26
+PYPL,PAYPAL HOLDINGS INC,Financials,0.08,iShares IVV holdings,2026-04-26
+Q,QNITY ELECTRONICS INC,Information Technology,0.05,iShares IVV holdings,2026-04-26
+QCOM,QUALCOMM INC,Information Technology,0.23,iShares IVV holdings,2026-04-26
+RCL,ROYAL CARIBBEAN GROUP LTD,Consumer Discretionary,0.11,iShares IVV holdings,2026-04-26
+REG,REGENCY CENTERS REIT CORP,Real Estate,0.02,iShares IVV holdings,2026-04-26
+REGN,REGENERON PHARMACEUTICALS INC,Health Care,0.13,iShares IVV holdings,2026-04-26
+RF,REGIONS FINANCIAL CORP,Financials,0.04,iShares IVV holdings,2026-04-26
+RJF,RAYMOND JAMES INC,Financials,0.04,iShares IVV holdings,2026-04-26
+RL,RALPH LAUREN CORP CLASS A,Consumer Discretionary,0.02,iShares IVV holdings,2026-04-26
+RMD,RESMED INC,Health Care,0.05,iShares IVV holdings,2026-04-26
+ROK,ROCKWELL AUTOMATION INC,Industrials,0.08,iShares IVV holdings,2026-04-26
+ROL,ROLLINS INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+ROP,ROPER TECHNOLOGIES INC,Information Technology,0.06,iShares IVV holdings,2026-04-26
+ROST,ROSS STORES INC,Consumer Discretionary,0.12,iShares IVV holdings,2026-04-26
+RSG,REPUBLIC SERVICES INC,Industrials,0.07,iShares IVV holdings,2026-04-26
+RTX,RTX CORP,Industrials,0.39,iShares IVV holdings,2026-04-26
+RVTY,REVVITY INC,Health Care,0.02,iShares IVV holdings,2026-04-26
+SATS,ECHOSTAR CORP CLASS A,Communication,0.03,iShares IVV holdings,2026-04-26
+SBAC,SBA COMMUNICATIONS REIT CORP CLASS,Real Estate,0.04,iShares IVV holdings,2026-04-26
+SBUX,STARBUCKS CORP,Consumer Discretionary,0.19,iShares IVV holdings,2026-04-26
+SCHW,CHARLES SCHWAB CORP,Financials,0.24,iShares IVV holdings,2026-04-26
+SHW,SHERWIN WILLIAMS,Materials,0.13,iShares IVV holdings,2026-04-26
+SJM,JM SMUCKER,Consumer Staples,0.02,iShares IVV holdings,2026-04-26
+SLB,SLB NV,Energy,0.13,iShares IVV holdings,2026-04-26
+SMCI,SUPER MICRO COMPUTER INC,Information Technology,0.02,iShares IVV holdings,2026-04-26
+SNA,SNAP ON INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+SNDK,SANDISK CORP,Information Technology,0.23,iShares IVV holdings,2026-04-26
+SNPS,SYNOPSYS INC,Information Technology,0.14,iShares IVV holdings,2026-04-26
+SO,SOUTHERN,Utilities,0.17,iShares IVV holdings,2026-04-26
+SOLV,SOLVENTUM CORP,Health Care,0.02,iShares IVV holdings,2026-04-26
+SPG,SIMON PROPERTY GROUP REIT INC,Real Estate,0.11,iShares IVV holdings,2026-04-26
+SPGI,S&P GLOBAL INC,Financials,0.22,iShares IVV holdings,2026-04-26
+SRE,SEMPRA,Utilities,0.1,iShares IVV holdings,2026-04-26
+STE,STERIS,Health Care,0.04,iShares IVV holdings,2026-04-26
+STLD,STEEL DYNAMICS INC,Materials,0.05,iShares IVV holdings,2026-04-26
+STT,STATE STREET CORP,Financials,0.07,iShares IVV holdings,2026-04-26
+STX,SEAGATE TECHNOLOGY HOLDINGS PLC,Information Technology,0.21,iShares IVV holdings,2026-04-26
+STZ,CONSTELLATION BRANDS INC CLASS A,Consumer Staples,0.04,iShares IVV holdings,2026-04-26
+SW,SMURFIT WESTROCK PLC,Materials,0.03,iShares IVV holdings,2026-04-26
+SWK,STANLEY BLACK & DECKER INC,Industrials,0.02,iShares IVV holdings,2026-04-26
+SWKS,SKYWORKS SOLUTIONS INC,Information Technology,0.02,iShares IVV holdings,2026-04-26
+SYF,SYNCHRONY FINANCIAL,Financials,0.04,iShares IVV holdings,2026-04-26
+SYK,STRYKER CORP,Health Care,0.19,iShares IVV holdings,2026-04-26
+SYY,SYSCO CORP,Consumer Staples,0.06,iShares IVV holdings,2026-04-26
+T,AT&T INC,Communication,0.31,iShares IVV holdings,2026-04-26
+TAP,MOLSON COORS BREWING CLASS B,Consumer Staples,0.01,iShares IVV holdings,2026-04-26
+TDG,TRANSDIGM GROUP INC,Industrials,0.11,iShares IVV holdings,2026-04-26
+TDY,TELEDYNE TECHNOLOGIES INC,Information Technology,0.05,iShares IVV holdings,2026-04-26
+TECH,BIO TECHNE CORP,Health Care,0.01,iShares IVV holdings,2026-04-26
+TEL,TE CONNECTIVITY PLC,Information Technology,0.1,iShares IVV holdings,2026-04-26
+TER,TERADYNE INC,Information Technology,0.1,iShares IVV holdings,2026-04-26
+TFC,TRUIST FINANCIAL CORP,Financials,0.11,iShares IVV holdings,2026-04-26
+TGT,TARGET CORP,Consumer Staples,0.1,iShares IVV holdings,2026-04-26
+TJX,TJX INC,Consumer Discretionary,0.29,iShares IVV holdings,2026-04-26
+TKO,TKO GROUP HOLDINGS INC CLASS A,Communication,0.02,iShares IVV holdings,2026-04-26
+TMO,THERMO FISHER SCIENTIFIC INC,Health Care,0.29,iShares IVV holdings,2026-04-26
+TMUS,T MOBILE US INC,Communication,0.15,iShares IVV holdings,2026-04-26
+TPL,TEXAS PACIFIC LAND CORP,Energy,0.04,iShares IVV holdings,2026-04-26
+TPR,TAPESTRY INC,Consumer Discretionary,0.05,iShares IVV holdings,2026-04-26
+TRGP,TARGA RESOURCES CORP,Energy,0.08,iShares IVV holdings,2026-04-26
+TRMB,TRIMBLE INC,Information Technology,0.03,iShares IVV holdings,2026-04-26
+TROW,T ROWE PRICE GROUP INC,Financials,0.04,iShares IVV holdings,2026-04-26
+TRV,TRAVELERS COMPANIES INC,Financials,0.11,iShares IVV holdings,2026-04-26
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,0.03,iShares IVV holdings,2026-04-26
+TSLA,TESLA INC,Consumer Discretionary,1.72,iShares IVV holdings,2026-04-26
+TSN,TYSON FOODS INC CLASS A,Consumer Staples,0.03,iShares IVV holdings,2026-04-26
+TT,TRANE TECHNOLOGIES PLC,Industrials,0.18,iShares IVV holdings,2026-04-26
+TTD,TRADE DESK INC CLASS A,Communication,0.02,iShares IVV holdings,2026-04-26
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,Communication,0.06,iShares IVV holdings,2026-04-26
+TXN,TEXAS INSTRUMENT INC,Information Technology,0.42,iShares IVV holdings,2026-04-26
+TXT,TEXTRON INC,Industrials,0.03,iShares IVV holdings,2026-04-26
+TYL,TYLER TECHNOLOGIES INC,Information Technology,0.02,iShares IVV holdings,2026-04-26
+UAL,UNITED AIRLINES HOLDINGS INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+UBER,UBER TECHNOLOGIES INC,Industrials,0.25,iShares IVV holdings,2026-04-26
+UDR,UDR REIT INC,Real Estate,0.02,iShares IVV holdings,2026-04-26
+UHS,UNIVERSAL HEALTH SERVICES INC CLAS,Health Care,0.02,iShares IVV holdings,2026-04-26
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,0.04,iShares IVV holdings,2026-04-26
+UNH,UNITEDHEALTH GROUP INC,Health Care,0.53,iShares IVV holdings,2026-04-26
+UNP,UNION PACIFIC CORP,Industrials,0.26,iShares IVV holdings,2026-04-26
+UPS,UNITED PARCEL SERVICE INC CLASS B,Industrials,0.13,iShares IVV holdings,2026-04-26
+URI,UNITED RENTALS INC,Industrials,0.1,iShares IVV holdings,2026-04-26
+USB,US BANCORP,Financials,0.14,iShares IVV holdings,2026-04-26
+V,VISA INC CLASS A,Financials,0.85,iShares IVV holdings,2026-04-26
+VICI,VICI PPTYS INC,Real Estate,0.05,iShares IVV holdings,2026-04-26
+VLO,VALERO ENERGY CORP,Energy,0.12,iShares IVV holdings,2026-04-26
+VLTO,VERALTO CORP,Industrials,0.04,iShares IVV holdings,2026-04-26
+VMC,VULCAN MATERIALS,Materials,0.06,iShares IVV holdings,2026-04-26
+VRSK,VERISK ANALYTICS INC,Industrials,0.04,iShares IVV holdings,2026-04-26
+VRSN,VERISIGN INC,Information Technology,0.04,iShares IVV holdings,2026-04-26
+VRT,VERTIV HOLDINGS CLASS A,Industrials,0.2,iShares IVV holdings,2026-04-26
+VRTX,VERTEX PHARMACEUTICALS INC,Health Care,0.18,iShares IVV holdings,2026-04-26
+VST,VISTRA CORP,Utilities,0.08,iShares IVV holdings,2026-04-26
+VTR,VENTAS REIT INC,Real Estate,0.06,iShares IVV holdings,2026-04-26
+VTRS,VIATRIS INC,Health Care,0.03,iShares IVV holdings,2026-04-26
+VZ,VERIZON COMMUNICATIONS INC,Communication,0.33,iShares IVV holdings,2026-04-26
+WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,Industrials,0.08,iShares IVV holdings,2026-04-26
+WAT,WATERS CORP,Health Care,0.05,iShares IVV holdings,2026-04-26
+WBD,WARNER BROS. DISCOVERY INC SERIES,Communication,0.11,iShares IVV holdings,2026-04-26
+WDAY,WORKDAY INC CLASS A,Information Technology,0.04,iShares IVV holdings,2026-04-26
+WDC,WESTERN DIGITAL CORP,Information Technology,0.22,iShares IVV holdings,2026-04-26
+WEC,WEC ENERGY GROUP INC,Utilities,0.06,iShares IVV holdings,2026-04-26
+WELL,WELLTOWER INC,Real Estate,0.24,iShares IVV holdings,2026-04-26
+WFC,WELLS FARGO,Financials,0.41,iShares IVV holdings,2026-04-26
+WM,WASTE MANAGEMENT INC,Industrials,0.14,iShares IVV holdings,2026-04-26
+WMB,WILLIAMS INC,Energy,0.14,iShares IVV holdings,2026-04-26
+WMT,WALMART INC,Consumer Staples,0.95,iShares IVV holdings,2026-04-26
+WRB,WR BERKLEY CORP,Financials,0.03,iShares IVV holdings,2026-04-26
+WSM,WILLIAMS SONOMA INC,Consumer Discretionary,0.04,iShares IVV holdings,2026-04-26
+WST,WEST PHARMACEUTICAL SERVICES INC,Health Care,0.04,iShares IVV holdings,2026-04-26
+WTW,WILLIS TOWERS WATSON PLC,Financials,0.05,iShares IVV holdings,2026-04-26
+WY,WEYERHAEUSER REIT,Real Estate,0.03,iShares IVV holdings,2026-04-26
+WYNN,WYNN RESORTS LTD,Consumer Discretionary,0.01,iShares IVV holdings,2026-04-26
+XEL,XCEL ENERGY INC,Utilities,0.08,iShares IVV holdings,2026-04-26
+XOM,EXXON MOBIL CORP,Energy,1.03,iShares IVV holdings,2026-04-26
+XYL,XYLEM INC,Industrials,0.05,iShares IVV holdings,2026-04-26
+XYZ,BLOCK INC CLASS A,Financials,0.06,iShares IVV holdings,2026-04-26
+YUM,YUM BRANDS INC,Consumer Discretionary,0.07,iShares IVV holdings,2026-04-26
+ZBH,ZIMMER BIOMET HOLDINGS INC,Health Care,0.03,iShares IVV holdings,2026-04-26
+ZBRA,ZEBRA TECHNOLOGIES CORP CLASS A,Information Technology,0.02,iShares IVV holdings,2026-04-26
+ZTS,ZOETIS INC CLASS A,Health Care,0.08,iShares IVV holdings,2026-04-26

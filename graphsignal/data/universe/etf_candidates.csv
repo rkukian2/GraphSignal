@@ -1,0 +1,83 @@
+ticker,name,category
+SPY,SPDR S&P 500 ETF Trust,broad
+IVV,iShares Core S&P 500 ETF,broad
+VOO,Vanguard S&P 500 ETF,broad
+VTI,Vanguard Total Stock Market ETF,broad
+QQQ,Invesco QQQ Trust,broad
+QQQM,Invesco NASDAQ 100 ETF,broad
+IWM,iShares Russell 2000 ETF,broad
+DIA,SPDR Dow Jones Industrial Average ETF Trust,broad
+VTV,Vanguard Value ETF,style
+VUG,Vanguard Growth ETF,style
+IJH,iShares Core S&P Mid-Cap ETF,broad
+IJR,iShares Core S&P Small-Cap ETF,broad
+VO,Vanguard Mid-Cap ETF,broad
+VB,Vanguard Small-Cap ETF,broad
+RSP,Invesco S&P 500 Equal Weight ETF,broad
+SCHB,Schwab US Broad Market ETF,broad
+ITOT,iShares Core S&P Total US Stock Market ETF,broad
+SCHX,Schwab US Large-Cap ETF,broad
+SCHA,Schwab US Small-Cap ETF,broad
+SCHM,Schwab US Mid-Cap ETF,broad
+XLF,Financial Select Sector SPDR Fund,sector
+XLK,Technology Select Sector SPDR Fund,sector
+XLE,Energy Select Sector SPDR Fund,sector
+XLY,Consumer Discretionary Select Sector SPDR Fund,sector
+XLP,Consumer Staples Select Sector SPDR Fund,sector
+XLI,Industrial Select Sector SPDR Fund,sector
+XLV,Health Care Select Sector SPDR Fund,sector
+XLU,Utilities Select Sector SPDR Fund,sector
+XLB,Materials Select Sector SPDR Fund,sector
+XLRE,Real Estate Select Sector SPDR Fund,sector
+XLC,Communication Services Select Sector SPDR Fund,sector
+SMH,VanEck Semiconductor ETF,industry
+SOXX,iShares Semiconductor ETF,industry
+XBI,SPDR S&P Biotech ETF,industry
+IBB,iShares Biotechnology ETF,industry
+KRE,SPDR S&P Regional Banking ETF,industry
+KBE,SPDR S&P Bank ETF,industry
+ITA,iShares US Aerospace & Defense ETF,industry
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,industry
+XME,SPDR S&P Metals & Mining ETF,industry
+XHB,SPDR S&P Homebuilders ETF,industry
+ITB,iShares US Home Construction ETF,industry
+XRT,SPDR S&P Retail ETF,industry
+IGV,iShares Expanded Tech-Software Sector ETF,industry
+IYR,iShares US Real Estate ETF,sector
+VNQ,Vanguard Real Estate ETF,sector
+SCHH,Schwab US REIT ETF,sector
+EFA,iShares MSCI EAFE ETF,intl
+IEFA,iShares Core MSCI EAFE ETF,intl
+VEA,Vanguard FTSE Developed Markets ETF,intl
+EEM,iShares MSCI Emerging Markets ETF,intl
+IEMG,iShares Core MSCI Emerging Markets ETF,intl
+VWO,Vanguard FTSE Emerging Markets ETF,intl
+VXUS,Vanguard Total International Stock ETF,intl
+ACWI,iShares MSCI ACWI ETF,intl
+FXI,iShares China Large-Cap ETF,intl
+MCHI,iShares MSCI China ETF,intl
+INDA,iShares MSCI India ETF,intl
+EWJ,iShares MSCI Japan ETF,intl
+EWZ,iShares MSCI Brazil ETF,intl
+EWY,iShares MSCI South Korea ETF,intl
+EWT,iShares MSCI Taiwan ETF,intl
+EWG,iShares MSCI Germany ETF,intl
+EWU,iShares MSCI United Kingdom ETF,intl
+AGG,iShares Core US Aggregate Bond ETF,bonds
+BND,Vanguard Total Bond Market ETF,bonds
+TLT,iShares 20+ Year Treasury Bond ETF,bonds
+IEF,iShares 7-10 Year Treasury Bond ETF,bonds
+SHY,iShares 1-3 Year Treasury Bond ETF,bonds
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,bonds
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,bonds
+JNK,SPDR Bloomberg High Yield Bond ETF,bonds
+TIP,iShares TIPS Bond ETF,bonds
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,bonds
+MUB,iShares National Muni Bond ETF,bonds
+GLD,SPDR Gold Shares,commodities
+IAU,iShares Gold Trust,commodities
+SLV,iShares Silver Trust,commodities
+USO,United States Oil Fund,commodities
+GDX,VanEck Gold Miners ETF,commodities
+SCHD,Schwab US Dividend Equity ETF,dividend
+VYM,Vanguard High Dividend Yield ETF,dividend
